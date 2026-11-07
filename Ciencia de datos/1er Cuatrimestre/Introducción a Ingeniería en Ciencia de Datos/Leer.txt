@@ -1,0 +1,5 @@
+Esta carpeta contiene material de estudio de INTRODUCCIÓN A INGENIERÍA EN CIENCIA DE DATOS como parciales, apuntes y demás cosas para estudiar.
+
+Profesores:
+Eduardo Andres Paternina Ariza
+Alexander Bustamante 
